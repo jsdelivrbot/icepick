@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn.rawgit.com/arcticicestudio/icepick/develop/assets/icepick-logo-banner.svg"/></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/arcticicestudio/icepick@develop/assets/icepick-logo-banner.svg"/></p>
 
 <p align="center"><a href="https://github.com/arcticicestudio/icepick/blob/develop/CHANGELOG.md"><img src="https://img.shields.io/badge/Changelog----81A1C1.svg?style=flat-square"/></a></p>
 
